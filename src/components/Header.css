@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+    header h1 {
+      font-size: 20px; /* Reduced font size for header */
+    }
+    nav a {
+      font-size: 16px; /* Reduced font size for buttons */
+      padding: 6px 12px; /* Reduced padding */
+    }
+  }
+
+  @media (max-width: 480px) {
+    header h1 {
+      font-size: 18px; /* Further reduced font size for header on smaller screens */
+    }
+    nav a {
+      font-size: 14px; /* Further reduced font size for buttons */
+      padding: 4px 10px; /* Further reduced padding */
+    }
+  }
