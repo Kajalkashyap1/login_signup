@@ -1,3 +1,5 @@
+link to project -> login-signup-sigma-seven.vercel.app
+
 # Sign-Up Form Project
 
 This project is a React-based sign-up form with features like password strength calculation, visibility toggle for passwords, and form validation using Formik and Yup.
